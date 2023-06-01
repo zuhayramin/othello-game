@@ -1,7 +1,4 @@
-CNG462 Artificial Intelligence – Assignment 2 
-
-Zuhayr Amin - 2455426
-Liban Gudhane - 2406064
+# CNG462 Artificial Intelligence – Assignment 2 
 
 This is a Readme.txt file containing a brief explanation of the code and how to compile it.
 
@@ -23,5 +20,3 @@ To run the program so that the computer plays against itself, use:
 >>python othello_ab.py cvc
 
 Enter a depth value for the algorithm. Recommended values are 1 - 4. Any higher will cause the search to be very slow.
-
-
